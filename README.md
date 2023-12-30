@@ -1,5 +1,5 @@
 # look at those people
-<img src="./img/5th_solvay_conseils_8k.png" />
+<img src="./img/5th_solvay_conseils_8k.jpg" />
 
 # bipedal
 <img src="./img/FB.png" />
