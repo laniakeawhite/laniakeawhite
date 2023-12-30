@@ -1,3 +1,8 @@
+
+# Isaac Newton
+<img src="./img/newton.jpg" />
+
+
 # look at those people
 <img src="./img/5th_solvay_conseils_8k.jpg" />
 
